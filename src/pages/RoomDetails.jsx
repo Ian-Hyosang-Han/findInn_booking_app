@@ -130,6 +130,7 @@ const RoomDetails = () => {
             <div className='max-w-3xl border-y border-gray-300 my-15 py-10 text-gray-500'>
                 <p>Guests will be allocated on the ground floor according to acailability. You get a comfortable Two bedroom apartment has a true city feeling. The price quoted is for two guest, at the guest slot please mark the number of guests to get the exact price for groups. The Guests will be allocated on the ground floor according to acailability. You get a comfortable Two bedroom apartment has a true city feeling.</p>
             </div>
+            
             {/* Hosted by */}
             <div className='flex flex-col items-start gap-4'>
                 <div className='flex gap-4'>
